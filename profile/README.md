@@ -1,12 +1,9 @@
-## Hi there 👋
+<img width="100%" src="https://github.com/user-attachments/assets/40aaa0ea-2766-4f10-aa83-979850f50bfb" />
 
-<!--
+# 🌊 CoUGARs: Configurable Underwater Group of Autonomous Robots
 
-**Here are some ideas to get you started:**
+CoUGARs is a low-cost, configurable AUV platform designed for multi-agent autonomy research by the [Field Robotic Systems Lab (FROST Lab)](https://frostlab.byu.edu) at [Brigham Young University](https://byu.edu).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📖 Wiki
+
+Check out the [GitHub Wiki](https://github.com/cougars-auv/cougars-dev/wiki) for up-to-date documentation.
